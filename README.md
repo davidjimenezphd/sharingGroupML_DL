@@ -8,7 +8,6 @@
 Julián Lamoso - Multimodal | Héctor Cerezo - iNets | Luis Manuel Morán - eSalud
 -------------------------- | --------------------- | --------------------------
 Introduction to Recurrent Neural Networks
-
 *En esta parte se realizará una repaso sobre los fundamentos de las RNNs: ventajas, inconvenientes, limitaciones y posibles casos de uso. Para ello se realizará un enfoque teórico-práctico que concluirá con ejemplos prácticos de aplicación de estas redes a través de "notebooks" y posibles casos de uso.*
 
 |  
