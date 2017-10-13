@@ -1,4 +1,5 @@
-# Machine/Deep Learning Sharing Group. Joining synergies @ Gradiant!
+# Machine/Deep Learning Sharing Group. 
+# *Joining synergies @ Gradiant!*
 ## ... a periodic meeting to discuss about Machine/Deep Learning topics. 
 
 ### Motivated by the presentation... focused on the discussion!
@@ -6,7 +7,7 @@
 > *If I have an idea and you have an idea, we both have an idea. But, what happen if we share it?... 
 > We have TWO ideas!! Wow*
 
-## Next session
+## Next session (October)
 
 ### 09/11/2017 - WORKSHOP ON RECURRENT NEURAL NETWORKS (RNN) 
 #### From the very basics to more advanced details: fundamentals, LSTM (Long-Short Term Memory) vs GRU (Gated Recurrent Unit) networks, use cases in several fields (Natural Language Processing, Computer Vision, Sequence Modeling...). By Julián Lamoso and Héctor Cerezo
