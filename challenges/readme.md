@@ -1,2 +1,2 @@
-# Machine Learning Challenges (under construction)
+# Proposals of Machine Learning Challenges (under construction)
 
