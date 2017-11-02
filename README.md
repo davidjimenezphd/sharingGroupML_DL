@@ -6,9 +6,12 @@
 > *If I have an idea and you have an idea, we both have an idea. But, what happen if we share it?... 
 > We have TWO ideas!! Wow*
 
-## Next session (October)
+## Next session
+
+> Para asistir enviar correo a: djcabello@gradiant.org
 
 ### 09/11/2017 - WORKSHOP ON RECURRENT NEURAL NETWORKS (RNN) 
+#### Sala D+i, 11-13h, planta baja edificio CITEXVI, Campus Universitario de Vigo (CUVI)
 #### From the very basics to more advanced details: fundamentals, LSTM (Long-Short Term Memory) vs GRU (Gated Recurrent Unit) networks, use cases in several fields (Natural Language Processing, Computer Vision, Sequence Modeling...). By Julián Lamoso and Héctor Cerezo
 
 Julián Lamoso - Multimodal | Héctor Cerezo - iNets | Luis Manuel Morán - eSalud
