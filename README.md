@@ -1,6 +1,5 @@
 # Machine/Deep Learning Sharing Group. 
-# *Joining synergies @ Gradiant!*
-![logogragiant_half](https://user-images.githubusercontent.com/30496090/32317718-10c05b3e-bfb5-11e7-8e24-5500dc6cd505.png)
+# *Joining synergies @ Gradiant!* ![logogragiant_half](https://user-images.githubusercontent.com/30496090/32317718-10c05b3e-bfb5-11e7-8e24-5500dc6cd505.png)
 
 ## A periodic meeting to discuss about Machine/Deep Learning topics. 
 ### Motivated by the presentation... focused on the discussion!
