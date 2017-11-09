@@ -20,3 +20,10 @@ Introduction to Recurrent Neural Networks | Recurrent Neural Networks - Advanced
 *En esta parte se realizará una repaso sobre los fundamentos de las RNNs: ventajas, inconvenientes, limitaciones y posibles casos de uso. Para ello se realizará un enfoque teórico-práctico que concluirá con ejemplos prácticos de aplicación de estas redes a través de "notebooks" y posibles casos de uso.* | *Gracias a su dilatada experiencia en el uso de estas redes, nuestro compañero Héctor nos mostrará un conjunto de "tips&tricks" acerca de cómo aplicar redes RNN en casos de uso reales. Se hará especial énfasis en las diferencias entre las dos arquitecturas más extendidas (LSTM y GRU) y se mostrarán ejemplos prácticos a través de notebooks de python.* | En esta charla "Lightning" nuestro compañero Luis, de eSalud, nos hablará de un sistema que están realizando y en el cual les gustaría explorar la posibilidad de aplicar las técnicas más novedosas de ML y DL.
 
 ![Timeline October](https://user-images.githubusercontent.com/30496090/31537535-d75bb76a-b002-11e7-98f1-35fb62b9ba16.png)
+
+## Future Sessions
+We are planning the following sessions (dates could be modified):
+* November, 30: "Data forecasting using RNN" + Lightning Talk
+* December, 14: "Workshop on Reinforcement Learning" + Brainstorming about suggestions/proposals for the "SharinGroup"
+
+> We encourage everybody to make a proposal of presentation. Just send an email to: djcabello@gradiant.org
