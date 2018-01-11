@@ -1,4 +1,4 @@
-# Sequence-to-sequnce learning example for machine translation
+# Sequence-to-sequence learning example for machine translation
 
 This is a minimal example of sequence-to-sequence learning. Sequence-to-sequence is a learning model that converts an input sequence into an output sequence. You can regard many tasks in the natural language processing field as this type of task, such as machine translation, dialogue and summarization.
 
