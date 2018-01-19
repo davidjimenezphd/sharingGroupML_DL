@@ -19,7 +19,7 @@ Pablo Dago - Multimodal | Adrián Portabales
 Introduction to Reinforcement Learning | Deep Reinforcement Learning - Advanced details
 *En esta parte se realizará una repaso sobre los fundamentos de Reinforcement Learning: principios, ventajas, inconvenientes, limitaciones y posibles casos de uso. Para ello se realizará un enfoque teórico-práctico que concluirá con ejemplos prácticos de aplicación de este paradigma a través de "notebooks" y posibles casos de uso.* | *Gracias a su experiencia en el uso de reinforcemente learning, Adrián Portabales nos mostrará un conjunto de "tips&tricks" acerca de cómo utilizar de manera exitosa "Deep Reinforcement Learning" en casos de uso reales.*
 
-![Timeline October](https://user-images.githubusercontent.com/30496090/31537535-d75bb76a-b002-11e7-98f1-35fb62b9ba16.png)
+![timeline_january](https://user-images.githubusercontent.com/30496090/35144065-b662e7e2-fd03-11e7-9be3-84428fd9b2b6.png)
 
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
