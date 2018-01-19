@@ -10,9 +10,9 @@
 
 > Para asistir enviar correo a: djcabello@gradiant.org
 
-### 25/01/2018 - Workshop on Deep Reinforcement Learning (DRL)
-#### > Sala D+i, 11-13h, planta baja edificio CITEXVI, Campus Universitario de Vigo (CUVI)
-#### From the very basics to more advanced details: fundamentals, Reinforcement Learning, use cases in several fields (Games, Control Systems, autonomous driving...). By Pablo Dago and Adrián Portabales
+## 25/01/2018 - Workshop on Deep Reinforcement Learning (DRL)
+### > Sala D+i, 11-13h, planta baja edificio CITEXVI, Campus Universitario de Vigo (CUVI)
+### From the very basics to more advanced details: fundamentals, Reinforcement Learning, use cases in several fields (Games, Control Systems, autonomous driving...). By Pablo Dago and Adrián Portabales
 
 Pablo Dago - Multimodal | Adrián Portabales
 -------------------------- | --------------------- 
