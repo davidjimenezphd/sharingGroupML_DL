@@ -8,16 +8,16 @@
 
 ## Next session
 
-> Para asistir enviar correo a: djcabello@gradiant.org
+> To attend send an email to: djcabello@gradiant.org
 
 ## 25/01/2018 - Workshop on Deep Reinforcement Learning (DRL)
-### > Sala D+i, 11-13h, planta baja edificio CITEXVI, Campus Universitario de Vigo (CUVI)
+### > Room D+i, 11-13h, ground floor CITEXVI building, Campus Universitario de Vigo (CUVI)
 ### From the very basics to more advanced details: fundamentals, Reinforcement Learning, use cases in several fields (Games, Control Systems, autonomous driving...). By Pablo Dago and Adrián Portabales
 
 Pablo Dago - Multimodal | Adrián Portabales
 -------------------------- | --------------------- 
 Introduction to Reinforcement Learning | Deep Reinforcement Learning - Advanced details
-*En esta parte se realizará una repaso sobre los fundamentos de Reinforcement Learning: principios, ventajas, inconvenientes, limitaciones y posibles casos de uso. Para ello se realizará un enfoque teórico-práctico que concluirá con ejemplos prácticos de aplicación de este paradigma a través de "notebooks" y posibles casos de uso.* | *Gracias a su experiencia en el uso de reinforcemente learning, Adrián Portabales nos mostrará un conjunto de "tips&tricks" acerca de cómo utilizar de manera exitosa "Deep Reinforcement Learning" en casos de uso reales.*
+*In this part we will review the fundamentals of Reinforcement Learning: principles, advantages, disadvantages, limitations and possible use cases. For this, a theoretical-practical approach will be carried out that will conclude with practical examples of application of this paradigm through "notebooks" and possible use cases.* | *Thanks to his experience in the use of reinforcemente learning, Adrián Portabales will show us a set of "tips & tricks" about how to successfully use "Deep Reinforcement Learning" in real use cases.*
 
 ![timeline_january](https://user-images.githubusercontent.com/30496090/35144065-b662e7e2-fd03-11e7-9be3-84428fd9b2b6.png)
 
