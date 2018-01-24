@@ -8,7 +8,7 @@
 
 ## Next session
 
-> To attend send an email to: djcabello@gradiant.org
+> To attend, please send an email to: djcabello@gradiant.org
 
 ## 25/01/2018 - Workshop on Deep Reinforcement Learning (DRL)
 ### > Room D+i, 11-13h, ground floor CITEXVI building, Campus Universitario de Vigo (CUVI)
