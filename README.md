@@ -8,22 +8,22 @@
 
 ## Next session
 
-> Para asistir enviar correo a: djcabello@gradiant.org
+> To attend, please send an email to: djcabello@gradiant.org
 
-### 09/11/2017 - WORKSHOP ON RECURRENT NEURAL NETWORKS (RNN) 
-#### > Sala i, 11-13h, planta baja edificio CITEXVI, Campus Universitario de Vigo (CUVI)
-#### From the very basics to more advanced details: fundamentals, LSTM (Long-Short Term Memory) vs GRU (Gated Recurrent Unit) networks, use cases in several fields (Natural Language Processing, Computer Vision, Sequence Modeling...). By Julián Lamoso and Héctor Cerezo
+## 25/01/2018 - Workshop on Deep Reinforcement Learning (DRL)
+### > Room D+i, 11-13h, ground floor CITEXVI building, Campus Universitario de Vigo (CUVI)
+### From the very basics to more advanced details: fundamentals, Reinforcement Learning, use cases in several fields (Games, Control Systems, autonomous driving...). By Pablo Dago and Adrián Portabales
 
-Julián Lamoso - Multimodal | Héctor Cerezo - iNets | Luis Manuel Morán - eSalud
--------------------------- | --------------------- | --------------------------
-Introduction to Recurrent Neural Networks | Recurrent Neural Networks - Advanced details | Lightning Talk previa a Brainstorming
-*En esta parte se realizará una repaso sobre los fundamentos de las RNNs: ventajas, inconvenientes, limitaciones y posibles casos de uso. Para ello se realizará un enfoque teórico-práctico que concluirá con ejemplos prácticos de aplicación de estas redes a través de "notebooks" y posibles casos de uso.* | *Gracias a su dilatada experiencia en el uso de estas redes, nuestro compañero Héctor nos mostrará un conjunto de "tips&tricks" acerca de cómo aplicar redes RNN en casos de uso reales. Se hará especial énfasis en las diferencias entre las dos arquitecturas más extendidas (LSTM y GRU) y se mostrarán ejemplos prácticos a través de notebooks de python.* | En esta charla "Lightning" nuestro compañero Luis, de eSalud, nos hablará de un sistema que están realizando y en el cual les gustaría explorar la posibilidad de aplicar las técnicas más novedosas de ML y DL.
+Pablo Dago - Multimodal | Adrián Portabales
+-------------------------- | --------------------- 
+Introduction to Reinforcement Learning | Deep Reinforcement Learning - Advanced details
+*In this part we will review the fundamentals of Reinforcement Learning: principles, advantages, disadvantages, limitations and possible use cases. For this, a theoretical-practical approach will be carried out that will conclude with practical examples of application of this paradigm through "notebooks" and possible use cases.* | *Thanks to his experience in the use of reinforcemente learning, Adrián Portabales will show us a set of "tips & tricks" about how to successfully use "Deep Reinforcement Learning" in real use cases.*
 
-![Timeline October](https://user-images.githubusercontent.com/30496090/31537535-d75bb76a-b002-11e7-98f1-35fb62b9ba16.png)
+![timeline_january](https://user-images.githubusercontent.com/30496090/35144065-b662e7e2-fd03-11e7-9be3-84428fd9b2b6.png)
 
-## Future Sessions
+## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
-* November, 30: "Data forecasting using RNN" + Lightning Talk
-* December, 14: "Workshop on Reinforcement Learning" + Brainstorming about suggestions/proposals for the "SharinGroup"
+* February, 22: "Reinforcement Learning Challenge! The aim of this practical session is to solve in groups a proposed RL problem in 2 hours. Are you ready for the challenge!! (prizes are expected and sponsors are more than welcome!)"
+* March, 22: "The dark side of Deep Learning: adversarial attacks and how to defeat them. In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures and different alternatives to reduce its influence."
 
 > We encourage everybody to make a proposal of presentation. Just send an email to: djcabello@gradiant.org
