@@ -10,9 +10,10 @@
 
 > To attend, please send an email to: djcabello@gradiant.org
 
-## 25/01/2018 - Workshop on Deep Reinforcement Learning (DRL)
+## 22/02/2018 -Challenge on Deep Reinforcement Learning (DRL)
 ### > Room D+i, 11-13h, ground floor CITEXVI building, Campus Universitario de Vigo (CUVI)
-### From the very basics to more advanced details: fundamentals, Reinforcement Learning, use cases in several fields (Games, Control Systems, autonomous driving...). By Pablo Dago and Adrián Portabales
+### The aim of this practical session is to solve in groups a proposed RL problem in 2 hours approx. Are you ready for the challenge!! (prizes are expected and sponsors are more than welcome!).
+## More details will be available soon!. By Pablo Dago and David Jiménez
 
 Pablo Dago - Multimodal | Adrián Portabales
 -------------------------- | --------------------- 
@@ -23,7 +24,6 @@ Introduction to Reinforcement Learning | Deep Reinforcement Learning - Advanced 
 
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
-* February, 22: "Reinforcement Learning Challenge! The aim of this practical session is to solve in groups a proposed RL problem in 2 hours. Are you ready for the challenge!! (prizes are expected and sponsors are more than welcome!)"
 * March, 22: "The dark side of Deep Learning: adversarial attacks and how to defeat them. In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures and different alternatives to reduce its influence."
 
 > We encourage everybody to make a proposal of presentation. Just send an email to: djcabello@gradiant.org
