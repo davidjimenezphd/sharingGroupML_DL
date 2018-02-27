@@ -10,7 +10,7 @@
 
 > To attend, please send an email to: djcabello@gradiant.org
 
-## 22/02/2018 -Challenge on Deep Reinforcement Learning (DRL)
+## 08/03/2018 - Deep Reinforcement Learning (DRL) practical session... be ready for the challenge!
 ### > Room D+i, 11-13h, ground floor CITEXVI building, Campus Universitario de Vigo (CUVI)
 ### The aim of this practical session is to solve in groups a proposed RL problem in 2 hours approx. Are you ready for the challenge!! (prizes are expected and sponsors are more than welcome!).
 ## More details will be available soon!. By Pablo Dago and David Jiménez
