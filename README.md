@@ -12,14 +12,15 @@
 
 ## 09/03/2018 - Deep Reinforcement Learning (DRL) practical session... be ready for the challenge!
 ### > Room D+i, 11-13:30h, ground floor CITEXVI building, Campus Universitario de Vigo (CUVI)
-### The aim of this practical session is to solve in groups a proposed RL problem in 2 hours approx. Are you ready for the challenge!!
-### By Pablo Dago and David Jiménez
+
+> The aim of this practical session is to solve in groups a proposed RL problem in 2 hours approx. Are you ready for the challenge!!
+**By Pablo Dago and David Jiménez
 
 
 ![timeline_february](https://user-images.githubusercontent.com/30496090/36978377-9dd505d0-2084-11e8-9c0f-d42f4c0c4a9b.png)
 
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
-* March-April (to be decided): "The dark side of Deep Learning: adversarial attacks and how to defeat them. In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures and different alternatives to reduce its influence."
+*March-April (to be decided): "The dark side of Deep Learning: adversarial attacks and how to defeat them. In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures and different alternatives to reduce its influence."
 
 > We encourage everybody to make a proposal of presentation. Just send an email to: djcabello@gradiant.org
