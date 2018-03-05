@@ -13,7 +13,8 @@
 ## 09/03/2018 - Deep Reinforcement Learning (DRL) practical session... be ready for the challenge!
 ### > Room D+i, 11-13:30h, ground floor CITEXVI building, Campus Universitario de Vigo (CUVI)
 
-> The aim of this practical session is to solve in groups a proposed RL problem in 2 hours approx. Are you ready for the challenge!!
+> The aim of this practical session is to solve in groups a proposed RL problem in 2 hours approx. Are you ready for the challenge!! We will use python and Google's new Colab platform to solve our problems. We encourage to bring your own laptops for this practical session.
+
 **By Pablo Dago and David Jiménez
 
 
