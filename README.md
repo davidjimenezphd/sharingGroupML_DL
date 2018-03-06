@@ -22,6 +22,7 @@
 
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
-*March-April (to be decided): "The dark side of Deep Learning: adversarial attacks and how to defeat them. In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures and different alternatives to reduce its influence."
+
+* April (to be decided): **"The dark side of Deep Learning: adversarial attacks and how to defeat them"**. In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.
 
 > We encourage everybody to make a proposal of presentation. Just send an email to: djcabello@gradiant.org
