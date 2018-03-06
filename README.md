@@ -1,4 +1,4 @@
-![ml_sharing_group](https://user-images.githubusercontent.com/30496090/36980357-5ad8a830-208a-11e8-8994-3fdc853b3e64.png)
+![ml_sharing_group](https://user-images.githubusercontent.com/30496090/37024691-ddf45440-2129-11e8-96f6-eca21a083b0e.png)
 
 ## A periodic meeting to discuss about Machine/Deep Learning topics. 
 ### Motivated by the presentation... focused on the discussion!
