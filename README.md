@@ -7,18 +7,16 @@
 > We have TWO ideas!! Wow*
 
 ## Next Session
-
-> To attend, please send an email to: djcabello@gradiant.org
-
-## 26/04/2018 - "The dark side of Deep Learning: adversarial attacks and how to defeat them"
-
 ### > Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI
+### 26/04/2018 - "The dark side of Deep Learning: Adversarial Attacks and how to Defeat them"
 
 > In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.
-
 **By David de la Iglesia
 
 ![timeline_april2](https://user-images.githubusercontent.com/30496090/38245842-096a682c-3740-11e8-9d1f-7aef3629924e.png)
+
+> To attend, please send an email to: djcabello@gradiant.org
+
 
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
