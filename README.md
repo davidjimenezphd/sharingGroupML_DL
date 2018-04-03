@@ -10,19 +10,18 @@
 
 > To attend, please send an email to: djcabello@gradiant.org
 
-## 09/03/2018 - Deep Reinforcement Learning (DRL) practical session... be ready for the challenge!
+## 26/04/2018 - "The dark side of Deep Learning: adversarial attacks and how to defeat them"
 ### > Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI
 
-> The aim of this practical session is to solve in groups a proposed RL problem in 2 hours approx. Are you ready for the challenge!! We will use python and Google's new Colab platform to solve our problems. We encourage to bring your own laptops for this practical session.
+> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.
 
-**By Pablo Dago and David Jiménez
+**By David de la Iglesia
 
-
-![timeline_february](https://user-images.githubusercontent.com/30496090/36978377-9dd505d0-2084-11e8-9c0f-d42f4c0c4a9b.png)
+![timeline_april2](https://user-images.githubusercontent.com/30496090/38245842-096a682c-3740-11e8-9d1f-7aef3629924e.png)
 
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* April (to be decided): **"The dark side of Deep Learning: adversarial attacks and how to defeat them"**. In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.
+* May: **Practical Session - Challenge - Adversarial Attacks and Defenses**. 
 
 > We encourage everybody to make a proposal of presentation. Just send an email to: djcabello@gradiant.org
