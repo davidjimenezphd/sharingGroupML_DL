@@ -6,11 +6,20 @@
 > *If I have an idea and you have an idea, we both have an idea. But, what happen if we share it?... 
 > We have TWO ideas!! Wow*
 
-## Next session
+## Temptative Program for 2018
 
 > To attend, please send an email to: djcabello@gradiant.org
 
 ## 26/04/2018 - "The dark side of Deep Learning: adversarial attacks and how to defeat them"
+## 05/2018: Challenge on Adversarial Attacks and Defences (confirmed, to be announced)
+## 06/2018: Workshop on Evolutionary Algorithms (confirmed, to be announced)
+## 07/2018: Challenge on Evolutionary Algorithms (confirmed, to be announced)
+## 08/2018: "Free Month... Summer Time"
+## 09/2018: Reviews Summer Schools 2017 (Deep Learning Bilbao, Big Data)
+## 10/2018: Reviews Summer Schools and Conferences 2018
+## 11/2018: Workshop on Big Data and Machine Learning (to be confirmed)
+## 12/2018: Challenge on Big Data and Machine Learning (to be confirmed)
+
 ### > Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI
 
 > In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.
