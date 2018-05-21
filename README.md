@@ -9,14 +9,15 @@
 ## Next Session
 ### > Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI
 ### 23/05/2018 - Brainstorming Session: "A multi-expert system for robust biometrics solutions". 
-### *Due to IP conflicts we can't allow external atendees into this session, sorry! Keep tuned for the upcoming challenge on Adversarial Attacks!!*
+### > *Due to IP conflicts we can't allow external atendees into this session, sorry! Keep tuned for the upcoming challenge on Adversarial Attacks!!*
 
 [comment]: <> (> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.)
 [comment]: <> (**By David de la Iglesia)
 
 [comment]: <> (![timeline_april2](https://user-images.githubusercontent.com/30496090/38245842-096a682c-3740-11e8-9d1f-7aef3629924e.png))
 
-> To attend, please send an email to: djcabello@gradiant.org
+> To attend, please send an email to: 
+> djcabello@gradiant.org
 
 
 ## Tentative Future Sessions
@@ -31,4 +32,5 @@ We are planning the following sessions (dates could be modified):
 * 11/2018: **Workshop on Big Data and Machine Learning** (to be confirmed)
 * 12/2018: **Challenge on Big Data and Machine Learning** (to be confirmed)
 
-> We encourage everybody to make a proposal of presentation. Just send an email to: djcabello@gradiant.org
+> We encourage everybody to make a proposal of presentation. 
+> Just send an email to: djcabello@gradiant.org
