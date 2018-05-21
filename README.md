@@ -11,10 +11,10 @@
 ### 23/05/2018 - Brainstorming Session: "A multi-expert system for robust biometrics solutions". 
 ### > *Due to IP conflicts we can't allow external atendees into this session, sorry! Keep tuned for the upcoming challenge on Adversarial Attacks!!*
 
-[comment]: <> (> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.)
-[comment]: <> (**By David de la Iglesia)
+[//]: # (> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.)
+[//]: # (**By David de la Iglesia)
 
-[comment]: <> (![timeline_april2](https://user-images.githubusercontent.com/30496090/38245842-096a682c-3740-11e8-9d1f-7aef3629924e.png))
+[//]: # (![timeline_april2](https://user-images.githubusercontent.com/30496090/38245842-096a682c-3740-11e8-9d1f-7aef3629924e.png))
 
 > To attend, please send an email to: 
 > djcabello@gradiant.org
@@ -28,7 +28,7 @@ We are planning the following sessions (dates could be modified):
 * 08/2018: **"Free Month... Summer Time"**
 * 09/2018: **Workshop I on Evolutionary Algorithms (theory and doubts)** (confirmed, to be announced)
 * 10/2018: **Workshop II on Evolutionary Algorithms (practical challenge)** (confirmed, to be announced)
-[comment]: <> (* 10/2018: **Reviews Summer Schools and Conferences 2018**)
+[//]: # (* 10/2018: **Reviews Summer Schools and Conferences 2018**)
 * 11/2018: **Workshop on Big Data and Machine Learning** (to be confirmed)
 * 12/2018: **Challenge on Big Data and Machine Learning** (to be confirmed)
 
