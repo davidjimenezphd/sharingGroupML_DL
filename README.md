@@ -14,8 +14,6 @@
 [//]: # (> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.)
 [//]: # (**By David de la Iglesia)
 
-[//]: # (![timeline_april2](https://user-images.githubusercontent.com/30496090/38245842-096a682c-3740-11e8-9d1f-7aef3629924e.png))
-
 > To attend, please send an email to: 
 > djcabello@gradiant.org
 
