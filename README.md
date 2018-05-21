@@ -7,7 +7,7 @@
 > We have TWO ideas!! Wow*
 
 ## Next Session
-### > Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI
+> Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI
 ### 23/05/2018 - Brainstorming Session: "A multi-expert system for robust biometrics solutions". 
 ### > *Due to IP conflicts we can't allow external atendees into this session, sorry! Keep tuned for the upcoming challenge on Adversarial Attacks!!*
 
