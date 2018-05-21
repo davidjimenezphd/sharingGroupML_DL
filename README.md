@@ -8,12 +8,12 @@
 
 ## Next Session
 ### > Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI
-### 26/04/2018 - "The dark side of Deep Learning: Adversarial Attacks and how to Defeat them"
+### 23/05/2018 - Brainstorming Session: "A multi-expert system for robust biometrics solutions". Due to IP we can't allow external atendees, sorry! Keep tuned for the upcoming challenge on Adversarial Attacks!!
 
-> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.
-**By David de la Iglesia
+[comment]: <> (> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.)
+[comment]: <> (**By David de la Iglesia)
 
-![timeline_april2](https://user-images.githubusercontent.com/30496090/38245842-096a682c-3740-11e8-9d1f-7aef3629924e.png)
+[comment]: <> (![timeline_april2](https://user-images.githubusercontent.com/30496090/38245842-096a682c-3740-11e8-9d1f-7aef3629924e.png))
 
 > To attend, please send an email to: djcabello@gradiant.org
 
@@ -21,12 +21,12 @@
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* 05/2018: **Practical Session - Challenge - Adversarial Attacks and Defenses** (confirmed, to be announced) 
-* 06/2018: **Workshop on Evolutionary Algorithms** (confirmed, to be announced)
-* 07/2018: **Challenge on Evolutionary Algorithms** (confirmed, to be announced)
+* 06/2018: **Practical Session - Challenge - Adversarial Attacks and Defenses** (confirmed, to be announced) 
+* 07/2018: **Reviews Summer Schools 2017 (Deep Learning Bilbao, Big Data)**
 * 08/2018: **"Free Month... Summer Time"**
-* 09/2018: **Reviews Summer Schools 2017 (Deep Learning Bilbao, Big Data)**
-* 10/2018: **Reviews Summer Schools and Conferences 2018**
+* 09/2018: **Workshop I on Evolutionary Algorithms (theory and doubts)** (confirmed, to be announced)
+* 10/2018: **Workshop II on Evolutionary Algorithms (practical challenge)** (confirmed, to be announced)
+[comment]: <> (* 10/2018: **Reviews Summer Schools and Conferences 2018**)
 * 11/2018: **Workshop on Big Data and Machine Learning** (to be confirmed)
 * 12/2018: **Challenge on Big Data and Machine Learning** (to be confirmed)
 
