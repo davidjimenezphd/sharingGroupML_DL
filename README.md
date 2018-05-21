@@ -7,9 +7,9 @@
 > We have TWO ideas!! Wow*
 
 ## Next Session
-> Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI
+> **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
 ### 23/05/2018 - Brainstorming Session: "A multi-expert system for robust biometrics solutions". 
-### > *Due to IP conflicts we can't allow external atendees into this session, sorry! Keep tuned for the upcoming challenge on Adversarial Attacks!!*
+> ***Due to IP conflicts we can't allow external atendees into this session, sorry! Keep tuned for the upcoming challenge on Adversarial Attacks!!***
 
 [//]: # (> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.)
 [//]: # (**By David de la Iglesia)
