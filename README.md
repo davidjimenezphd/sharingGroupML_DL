@@ -6,13 +6,12 @@
 > *If I have an idea and you have an idea, we both have an idea. But, what happen if we share it?... 
 > We have TWO ideas!! Wow*
 
-## Next Session
+## Upcoming Session
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
-### 23/05/2018 - Brainstorming Session: "A multi-expert system for robust biometrics solutions". 
-> ***Due to IP conflicts we can't allow external atendees into this session, sorry! Keep tuned for the upcoming challenge on Adversarial Attacks!!***
+### 28/06/2018 - Workshop Session II : "Adversarial Attacks and Defenses. A practical challenge"** (date to be confirmed) 
 
-[//]: # (> In this workshop we will talk about how to generate adversarial examples that drastically fool deep learning architectures. We will also review the most recent techniques to reduce its influence.)
-[//]: # (**By David de la Iglesia)
+> In the previous session of this workshop we talked about how to generate adversarial examples that drastically fool machine learning systems. We also reviewed the most recent techniques to reduce its influence. In the next session we will practice all these concepts in a challenge-mode hands-on-lab.
+**Co-organized by David de la Iglesia and David Jiménez *from the Multimodal Infomation Area @ Gradiant***.
 
 > To attend, please send an email to: 
 > djcabello@gradiant.org
@@ -21,7 +20,6 @@
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* 06/2018: **Practical Session - Challenge - Adversarial Attacks and Defenses** (confirmed, to be announced) 
 * 07/2018: **Reviews Summer Schools 2017 (Deep Learning Bilbao, Big Data)**
 * 08/2018: **"Free Month... Summer Time"**
 * 09/2018: **Workshop I on Evolutionary Algorithms (theory and doubts)** (confirmed, to be announced)
