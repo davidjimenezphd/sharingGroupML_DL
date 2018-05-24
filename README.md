@@ -11,6 +11,7 @@
 ### 28/06/2018 - Workshop Session II : "Adversarial Attacks and Defenses. A practical challenge" (date to be confirmed) 
 
 > In the previous session of this workshop we talked about how to generate adversarial examples that drastically fool machine learning systems. We also reviewed the most recent techniques to reduce its influence. In the next session we will practice all these concepts in a challenge-mode hands-on-lab.
+
 **Co-organized by David de la Iglesia and David Jiménez *from the Multimodal Infomation Area @ Gradiant***.
 
 > To attend, please send an email to: 
