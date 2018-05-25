@@ -30,7 +30,6 @@ We are planning the following sessions (dates could be modified):
 * 10/2018: **Workshop II on Evolutionary Algorithms (practical challenge)** (confirmed, to be announced)
 * 11/2018: **Workshop on Big Data and Machine Learning** (to be confirmed)
 * 12/2018: **Challenge on Big Data and Machine Learning** (to be confirmed)
-[//]: # (* 10/2018: **Reviews Summer Schools and Conferences 2018**)
 
 > We encourage everybody to make a proposal of presentation. 
 > Just send an email to: djcabello@gradiant.org
