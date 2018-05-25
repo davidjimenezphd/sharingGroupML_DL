@@ -13,9 +13,9 @@
 |![adversarial](https://user-images.githubusercontent.com/30496090/40491705-1016018e-5f6f-11e8-8dd3-4bc60d4d6088.png)|
 <img width="1196" alt="adversarial_iclr2018" src="https://user-images.githubusercontent.com/30496090/40491708-12f624a6-5f6f-11e8-8f7b-4d81540bd91b.png">|
 |---|---|
-> In the previous session of this workshop we talked about how to generate adversarial examples that drastically fool machine learning systems. We also reviewed the most recent techniques to reduce its influence. In the next session we will practice all these concepts in a challenge-mode hands-on-lab.
+> In the previous session of this workshop we talked about how to create adversarial examples that drastically fool machine learning systems. We also reviewed the most recent techniques to reduce its influence. In the next session we will practice all these concepts in a challenge-mode hands-on-lab.
 
-Co-organized by **David de la Iglesia and David Jiménez** *from the Multimodal Infomation Area @ Gradiant*
+Co-organized by **David de la Iglesia** and **David Jiménez** *from the Multimodal Infomation Area @ Gradiant*
 
 > To attend, please send an email to: 
 > djcabello@gradiant.org
