@@ -6,7 +6,7 @@
 > *If I have an idea and you have an idea, we both have an idea. But, what happen if we share it?... 
 > We have TWO ideas!! Wow*
 
-## Upcoming 10th Session
+## Upcoming ***10th*** Session
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
 ### 28/06/2018 - Workshop Session II : "Adversarial Attacks and Defenses. A practical challenge" (date to be confirmed) 
 
