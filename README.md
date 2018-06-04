@@ -26,10 +26,10 @@ We are planning the following sessions (dates could be modified):
 
 * 07/2018: **Reviews Summer Schools 2017 (Deep Learning Bilbao, Big Data)**
 * 08/2018: **"Free Month... Summer Time"**
-* 09/2018: **Workshop I on Evolutionary Algorithms (theory and doubts)** (confirmed, to be announced)
-* 10/2018: **Workshop II on Evolutionary Algorithms (practical challenge)** (confirmed, to be announced)
-* 11/2018: **Workshop on Big Data and Machine Learning** (to be confirmed)
-* 12/2018: **Challenge on Big Data and Machine Learning** (to be confirmed)
+* 09/2018: **Workshop I on Evolutionary Algorithms (theory and doubts)** (confirmed, date to be announced) with *Alberto Castelo* and *David Jiménez*
+* 10/2018: **Workshop II on Evolutionary Algorithms (practical challenge)** (confirmed, date to be announced)  with *Alberto Castelo* and *David Jiménez*
+* 11/2018: **Workshop on Big Data and Machine Learning** (date to be confirmed) with *Juan Pablo Rey Souto* 
+* 12/2018: **Challenge on Big Data and Machine Learning** (date to be confirmed) with *Juan Pablo Rey Souto*
 
 > We encourage everybody to make a proposal of presentation. 
 > Just send an email to: djcabello@gradiant.org
