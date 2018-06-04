@@ -7,14 +7,14 @@
 > We have TWO ideas!! Wow*
 
 ## Previous Session
-2017_07_28: Deep Learning Survey (David Jiménez) + Python 3D (David de la Iglesia)
-2017_09_07: Ensembles (Juan José Moreira) + Python Pipelines (Pablo Dago) + Lightning RF 
-2017_09_28: Brainstorming RF + FCNN Semantic Segmentation (Jorge Naya)
-2017_12_01: i-Health Brainstorming + RNN Application (Alberto Castelo)
-2018_01_25: Workshop I: Reinforcement Learning (Pablo Dago and Adrián Portabales)
-2018_03_09: Reinforcement Learning Challenge: GRADworld (Pablo Dago and David Jiménez)
-2018_04_26: Workshop on Adversarial Attacks and Defenses (David de la Iglesia)
-2018_05_23: Brainstorming: "Multi-Expert Systems for Biometrics Verification"
+* 2017_07_28: Deep Learning Survey (David Jiménez) + Python 3D (David de la Iglesia)
+* 2017_09_07: Ensembles (Juan José Moreira) + Python Pipelines (Pablo Dago) + Lightning RF 
+* 2017_09_28: Brainstorming RF + FCNN Semantic Segmentation (Jorge Naya)
+* 2017_12_01: i-Health Brainstorming + RNN Application (Alberto Castelo)
+* 2018_01_25: Workshop I: Reinforcement Learning (Pablo Dago and Adrián Portabales)
+* 2018_03_09: Reinforcement Learning Challenge: GRADworld (Pablo Dago and David Jiménez)
+* 2018_04_26: Workshop on Adversarial Attacks and Defenses (David de la Iglesia)
+* 2018_05_23: Brainstorming: "Multi-Expert Systems for Biometrics Verification"
 
 ## Upcoming ***10th*** Session
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
