@@ -13,7 +13,7 @@
 * 2017_11_09: Workshop I: Recurrent Neural Networks - RNN (*Héctor Cerezo* and *Julián Lamoso*) + Lightning i-Health
 * 2017_12_01: Workshop II: A RNN Application (*Alberto Castelo*) + Brainstorming i-Health
 * 2018_01_25: Workshop I: Reinforcement Learning (*Pablo Dago* and *Adrián Portabales*)
-* 2018_03_09: Workshop II:Reinforcement Learning Practical Challenge: GRADworld (*Pablo Dago* and *David Jiménez*)
+* 2018_03_09: Workshop II: Reinforcement Learning Practical Challenge: GRADworld (*Pablo Dago* and *David Jiménez*)
 * 2018_04_26: Workshop I: Adversarial Attacks and Defenses (*David de la Iglesia*)
 * 2018_05_23: Brainstorming: "Multi-Expert Systems for Biometrics Verification"
 
@@ -37,8 +37,8 @@ We are planning the following sessions (dates could be modified):
 
 * 07/2018: **Reviews Summer Schools 2017 (Deep Learning Bilbao, Big Data)**
 * 08/2018: **"Free Month... Summer Time"**
-* 09/2018: **Workshop I on Evolutionary Algorithms (theory and doubts)** (confirmed, date to be announced) with *Alberto Castelo* and *David Jiménez*
-* 10/2018: **Workshop II on Evolutionary Algorithms (practical challenge)** (confirmed, date to be announced)  with *Alberto Castelo* and *David Jiménez*
+* 09/2018: **Workshop I: Evolutionary Algorithms (theory and doubts)** (confirmed, date to be announced) with *Alberto Castelo* and *David Jiménez*
+* 10/2018: **Workshop II: Evolutionary Algorithms (practical challenge)** (confirmed, date to be announced)  with *Alberto Castelo* and *David Jiménez*
 * 11/2018: **Workshop on Big Data and Machine Learning** (date to be confirmed) with *Juan Pablo Rey Souto* 
 * 12/2018: **Challenge on Big Data and Machine Learning** (date to be confirmed) with *Juan Pablo Rey Souto*
 
