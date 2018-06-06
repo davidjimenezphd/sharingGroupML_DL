@@ -1,7 +1,7 @@
 ![ml_sharing_group](https://user-images.githubusercontent.com/30496090/37024691-ddf45440-2129-11e8-96f6-eca21a083b0e.png)
 
 ## A periodic meeting to discuss about Machine/Deep Learning topics. 
-### Motivated by the presentation... focused on the discussion!
+### *Motivated by the presentation... focused on the discussion!*
 ![sharing_group1](https://user-images.githubusercontent.com/30496090/31537549-e4db5ada-b002-11e7-9385-3dc08004c3e0.jpg)
 > *If I have an idea and you have an idea, we both have an idea. But, what happen if we share it?... 
 > We have TWO ideas!! Wow*
