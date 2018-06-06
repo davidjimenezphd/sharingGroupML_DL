@@ -6,7 +6,7 @@
 > *If I have an idea and you have an idea, we both have an idea. But, what happen if we share it?... 
 > We have TWO ideas!! Wow*
 
-## Previous Session
+## Previous Sessions
 * 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
 * 2017_09_07: Ensembles (*Juan José Moreira*) + Python Pipelines (*Pablo Dago*) + Lightning RF 
 * 2017_09_28: Brainstorming RF + FCNN Semantic Segmentation (*Jorge Naya*)
@@ -19,7 +19,7 @@
 
 ## Upcoming ***10th*** Session
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
-### 28/06/2018 - Workshop Session II : "Adversarial Attacks and Defenses. A practical challenge" (date to be confirmed) 
+### 28/06/2018 - Workshop Session II : "Adversarial Attacks and Defences. A practical challenge" (date to be confirmed) 
 
 |![adversarial](https://user-images.githubusercontent.com/30496090/40491705-1016018e-5f6f-11e8-8dd3-4bc60d4d6088.png)|
 <img width="1196" alt="adversarial_iclr2018" src="https://user-images.githubusercontent.com/30496090/40491708-12f624a6-5f6f-11e8-8f7b-4d81540bd91b.png">|
