@@ -23,8 +23,8 @@
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
 ### 27/09/2018 - Workshop Session I: Evolutionary Algorithms (theory and doubts)** (date to be confirmed) with *David Jiménez* and *David de la Iglesia*
 
-|![adversarial](https://user-images.githubusercontent.com/30496090/40491705-1016018e-5f6f-11e8-8dd3-4bc60d4d6088.png)|
-<img width="1196" alt="adversarial_iclr2018" src="https://user-images.githubusercontent.com/30496090/40491708-12f624a6-5f6f-11e8-8f7b-4d81540bd91b.png">|
+|![evolutionary_walk](https://user-images.githubusercontent.com/30496090/44568568-aec6a180-a777-11e8-9655-7a9ff7781147.png)|
+![learn_giraffe](https://user-images.githubusercontent.com/30496090/44568575-b2f2bf00-a777-11e8-9755-3e9a26773e89.gif)|
 |---|---|
 > Traditional AI algorithms like Evolutionary Algorithms are currently receiving special attention from the research community thanks to the simplicity and effectiveness of these algorithms. In this first part of the Workshop we will review the fundamentals and some advanced topics about evolutionary algorithms.
 
