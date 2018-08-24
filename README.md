@@ -7,6 +7,7 @@
 > We have TWO ideas!! Wow*
 
 ## Previous Sessions
+<font size = "8">
 * 2018_07_31: Research Infrastructure @Gradiant (*Daniel Pérez Cabo* and *David Jiménez*)
 * 2018_06_28: Workshop Session II : "Adversarial Attacks and Defences. A practical challenge" (*David de la Iglesia* and *David Jiménez*)
 * 2018_05_23: Brainstorming: "Multi-Expert Systems for Biometrics Verification" (*Biometric's Research Team*)
@@ -18,6 +19,7 @@
 * 2017_09_28: Brainstorming RF + FCNN Semantic Segmentation (*Jorge Naya*)
 * 2017_09_07: Ensembles (*Juan José Moreira*) + Python Pipelines (*Pablo Dago*) + Lightning RF 
 * 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
+</font>
 
 ## Upcoming ***12th*** Session
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
