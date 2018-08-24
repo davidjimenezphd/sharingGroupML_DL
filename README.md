@@ -7,26 +7,28 @@
 > We have TWO ideas!! Wow*
 
 ## Previous Sessions
-* 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
-* 2017_09_07: Ensembles (*Juan José Moreira*) + Python Pipelines (*Pablo Dago*) + Lightning RF 
-* 2017_09_28: Brainstorming RF + FCNN Semantic Segmentation (*Jorge Naya*)
-* 2017_11_09: Workshop I: Recurrent Neural Networks - RNN (*Héctor Cerezo* and *Julián Lamoso*) + Lightning i-Health
-* 2017_12_01: Workshop II: A RNN Application (*Alberto Castelo*) + Brainstorming i-Health
-* 2018_01_25: Workshop I: Reinforcement Learning (*Pablo Dago* and *Adrián Portabales*)
-* 2018_03_09: Workshop II: Reinforcement Learning Practical Challenge: GRADworld (*Pablo Dago* and *David Jiménez*)
+* 2018_07_31: Research Infrastructure @Gradiant (*Daniel Pérez Cabo* and *David Jiménez*)
+* 2018_06_28: Workshop Session II : "Adversarial Attacks and Defences. A practical challenge" (*David de la Iglesia* and *David Jiménez*)
+* 2018_05_23: Brainstorming: "Multi-Expert Systems for Biometrics Verification" (*Biometric's Research Team*)
 * 2018_04_26: Workshop I: Adversarial Attacks and Defenses (*David de la Iglesia*)
-* 2018_05_23: Brainstorming: "Multi-Expert Systems for Biometrics Verification"
+* 2018_03_09: Workshop II: Reinforcement Learning Practical Challenge: GRADworld (*Pablo Dago* and *David Jiménez*)
+* 2018_01_25: Workshop I: Reinforcement Learning (*Pablo Dago* and *Adrián Portabales*)
+* 2017_12_01: Workshop II: A RNN Application (*Alberto Castelo*) + Brainstorming i-Health
+* 2017_11_09: Workshop I: Recurrent Neural Networks - RNN (*Héctor Cerezo* and *Julián Lamoso*) + Lightning i-Health
+* 2017_09_28: Brainstorming RF + FCNN Semantic Segmentation (*Jorge Naya*)
+* 2017_09_07: Ensembles (*Juan José Moreira*) + Python Pipelines (*Pablo Dago*) + Lightning RF 
+* 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
 
-## Upcoming ***10th*** Session
+## Upcoming ***12th*** Session
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
-### 28/06/2018 - Workshop Session II : "Adversarial Attacks and Defences. A practical challenge" (date to be confirmed) 
+### 27/09/2018 - Workshop Session I: Evolutionary Algorithms (theory and doubts)** (date to be confirmed) with *David Jiménez* and *David de la Iglesia*
 
 |![adversarial](https://user-images.githubusercontent.com/30496090/40491705-1016018e-5f6f-11e8-8dd3-4bc60d4d6088.png)|
 <img width="1196" alt="adversarial_iclr2018" src="https://user-images.githubusercontent.com/30496090/40491708-12f624a6-5f6f-11e8-8f7b-4d81540bd91b.png">|
 |---|---|
-> In the previous session of this workshop we talked about how to create adversarial examples that drastically fool machine learning systems. We also reviewed the most recent techniques to reduce its influence. In the next session we will practice all these concepts in a challenge-mode hands-on-lab.
+> Traditional AI algorithms like Evolutionary Algorithms are currently receiving special attention from the research community thanks to the simplicity and effectiveness of these algorithms. In this first part of the Workshop we will review the fundamentals and some advanced topics about evolutionary algorithms.
 
-Co-organized by **David de la Iglesia** and **David Jiménez** *from the Multimodal Infomation Area @ Gradiant*
+Co-organized by **David Jiménez** and **David de la Iglesia** *from the Multimodal Infomation Area @ Gradiant*
 
 > To attend, please send an email to: 
 > djcabello@gradiant.org
@@ -35,9 +37,6 @@ Co-organized by **David de la Iglesia** and **David Jiménez** *from the Multimo
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* 07/2018: **Reviews Summer Schools 2017 (Deep Learning Bilbao, Big Data)**
-* 08/2018: **"Free Month... Summer Time"**
-* 09/2018: **Workshop I: Evolutionary Algorithms (theory and doubts)** (confirmed, date to be announced) with *Alberto Castelo* and *David Jiménez*
 * 10/2018: **Workshop II: Evolutionary Algorithms (practical challenge)** (confirmed, date to be announced)  with *Alberto Castelo* and *David Jiménez*
 * 11/2018: **Workshop I: Big Data and Machine Learning (theory and doubts)** (date to be confirmed) with *Juan Pablo Rey Souto* 
 * 12/2018: **Workshop II: Big Data and Machine Learning (practical challenge)** (date to be confirmed) with *Juan Pablo Rey Souto*
