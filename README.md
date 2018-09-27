@@ -34,7 +34,7 @@ Co-organized by **David Jiménez** *from the Multimodal Infomation Area* and **D
 > djcabello@gradiant.org
 
 
-## Tentative Future Sessions
+## 2018. Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
 * 11/2018: **Workshop I: Big Data and Machine Learning (theory and practice with Spark)** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
