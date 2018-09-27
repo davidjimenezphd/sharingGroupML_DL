@@ -21,7 +21,7 @@
 
 ## Upcoming ***12th*** Session
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
-### 11/10/2018 - Workshop Session I: Evolutionary Algorithms (theory and doubts)** (date to be confirmed) with *David Jiménez* *Diego Reiriz* and *Javier Guzman*
+### 11/10/2018 - Workshop Session I: Evolutionary Algorithms (theory and doubts)** (date to be confirmed) with *David Jiménez*, *Diego Reiriz* and *Javier Guzman*
 
 |![evolutionary_walk](https://user-images.githubusercontent.com/30496090/44568568-aec6a180-a777-11e8-9655-7a9ff7781147.png)|
 ![learn_giraffe](https://user-images.githubusercontent.com/30496090/44568575-b2f2bf00-a777-11e8-9755-3e9a26773e89.gif)|
