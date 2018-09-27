@@ -21,14 +21,14 @@
 
 ## Upcoming ***12th*** Session
 > **Room D+i, 11:00h - 13:30h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
-### 27/09/2018 - Workshop Session I: Evolutionary Algorithms (theory and doubts)** (date to be confirmed) with *David Jiménez* and *David de la Iglesia*
+### 11/10/2018 - Workshop Session I: Evolutionary Algorithms (theory and doubts)** (date to be confirmed) with *David Jiménez* *Diego Reiriz* and *Javier Guzman*
 
 |![evolutionary_walk](https://user-images.githubusercontent.com/30496090/44568568-aec6a180-a777-11e8-9655-7a9ff7781147.png)|
 ![learn_giraffe](https://user-images.githubusercontent.com/30496090/44568575-b2f2bf00-a777-11e8-9755-3e9a26773e89.gif)|
 |---|---|
 > Traditional AI algorithms like Evolutionary Algorithms are currently receiving special attention from the research community thanks to the simplicity and effectiveness of these algorithms. In this first part of the Workshop we will review the fundamentals and some advanced topics about evolutionary algorithms.
 
-Co-organized by **David Jiménez** and **David de la Iglesia** *from the Multimodal Infomation Area @ Gradiant*
+Co-organized by **David Jiménez** *from the Multimodal Infomation Area* and **Diego Reiriz** and **Javier Guzman** from the *Intelligent Systems Area* @ Gradiant
 
 > To attend, please send an email to: 
 > djcabello@gradiant.org
@@ -37,9 +37,8 @@ Co-organized by **David Jiménez** and **David de la Iglesia** *from the Multimo
 ## Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* 10/2018: **Workshop II: Evolutionary Algorithms (practical challenge)** (confirmed, date to be announced)  with *Alberto Castelo* and *David Jiménez*
-* 11/2018: **Workshop I: Big Data and Machine Learning (theory and doubts)** (date to be confirmed) with *Juan Pablo Rey Souto* 
-* 12/2018: **Workshop II: Big Data and Machine Learning (practical challenge)** (date to be confirmed) with *Juan Pablo Rey Souto*
+* 11/2018: **Workshop I: Big Data and Machine Learning (theory and practice with Spark)** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
+* 12/2018: **Workshop II: Big Data and Deep Learning (theory and practice with Spark)** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
 
 > We encourage everybody to make a proposal of presentation. 
 > Just send an email to: djcabello@gradiant.org
