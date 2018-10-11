@@ -7,8 +7,9 @@
 > We have TWO ideas!! Wow*
 
 ## Previous Sessions
+* 2018_10_11: Workshop I: Evolutionary Algorithms (*Diego Reiriz*, *Javier Guzman* and *David Jiménez*)
 * 2018_07_31: Research Infrastructure @Gradiant (*Daniel Pérez Cabo* and *David Jiménez*)
-* 2018_06_28: Workshop Session II : "Adversarial Attacks and Defences. A practical challenge" (*David de la Iglesia* and *David Jiménez*)
+* 2018_06_28: Workshop II : "Adversarial Attacks and Defences. A practical challenge" (*David de la Iglesia* and *David Jiménez*)
 * 2018_05_23: Brainstorming: "Multi-Expert Systems for Biometrics Verification" (*Biometric's Research Team*)
 * 2018_04_26: Workshop I: Adversarial Attacks and Defenses (*David de la Iglesia*)
 * 2018_03_09: Workshop II: Reinforcement Learning Practical Challenge: GRADworld (*Pablo Dago* and *David Jiménez*)
@@ -19,14 +20,14 @@
 * 2017_09_07: Ensembles (*Juan José Moreira*) + Python Pipelines (*Pablo Dago*) + Lightning RF 
 * 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
 
-## Upcoming ***12th*** Session
+## Upcoming ***13th*** Session
 > **Room D+i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
-### 11/10/2018 - Workshop Session I: Evolutionary Algorithms (theory)** with *David Jiménez*, *Diego Reiriz* and *Javier Guzman*
+### 25/10/2018 - Workshop Session II: Evolutionary Algorithms (practical challenge)** with *David Jiménez*, *Diego Reiriz* and *Javier Guzman*
 
 |![evolutionary_walk](https://user-images.githubusercontent.com/30496090/44568568-aec6a180-a777-11e8-9655-7a9ff7781147.png)|
 ![learn_giraffe](https://user-images.githubusercontent.com/30496090/44568575-b2f2bf00-a777-11e8-9755-3e9a26773e89.gif)|
 |---|---|
-> Traditional AI algorithms like Evolutionary Algorithms are currently receiving special attention from the research community thanks to the simplicity and effectiveness of these algorithms. In this first part of the Workshop we will review the fundamentals and some advanced topics about evolutionary algorithms.
+> Traditional AI algorithms like Evolutionary Algorithms are currently receiving special attention from the research community thanks to the simplicity and effectiveness of these algorithms. In this second part of the Workshop we will play with all the concepts of EA in a challenge-based hands on lab session.
 
 Co-organized by **David Jiménez** *from the Multimodal Infomation Area* and **Diego Reiriz** and **Javier Guzman** from the *Intelligent Systems Area* @ Gradiant
 
