@@ -35,8 +35,7 @@
 ## 2018. Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* 11/2018: **Workshop I: Big Data and Machine Learning (theory and practice with Spark)** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
 * 12/2018: **Workshop II: Big Data and Deep Learning (theory and practice with Spark)** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
 
-> We encourage everybody to make a proposal of presentation. 
+> We encourage everybody to make a proposal of presentation or their interests to prepare new workshops/presentations. 
 > Just send an email to: djcabello@gradiant.org
