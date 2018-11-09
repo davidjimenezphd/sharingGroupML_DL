@@ -7,6 +7,7 @@
 > We have TWO ideas!! Wow*
 
 ## Previous Sessions
+* 2018_11_08: Workshop II: Evolutionary Algorithms (practical challenge)** (*David Jiménez*, *Diego Reiriz* and *Javier Guzman*)
 * 2018_10_11: Workshop I: Evolutionary Algorithms (*Diego Reiriz*, *Javier Guzman* and *David Jiménez*)
 * 2018_07_31: Research Infrastructure @Gradiant (*Daniel Pérez Cabo* and *David Jiménez*)
 * 2018_06_28: Workshop II : "Adversarial Attacks and Defences. A practical challenge" (*David de la Iglesia* and *David Jiménez*)
@@ -20,16 +21,13 @@
 * 2017_09_07: Ensembles (*Juan José Moreira*) + Python Pipelines (*Pablo Dago*) + Lightning RF 
 * 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
 
-## Upcoming ***13th*** Session
-> **Room D+i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
-### 07/11/2018 - Workshop Session II: Evolutionary Algorithms (practical challenge)** with *David Jiménez*, *Diego Reiriz* and *Javier Guzman*
+## Upcoming ***14th*** Session
+> **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI** **TO BE CONFIRMED**
+### 29/11/2018 - Workshop Session I: Big Data and Machine Learning. A new era.** with *Juan Pablo Rey* and *Javier Guzman*
 
-|![evolutionary_walk](https://user-images.githubusercontent.com/30496090/44568568-aec6a180-a777-11e8-9655-7a9ff7781147.png)|
-![learn_giraffe](https://user-images.githubusercontent.com/30496090/44568575-b2f2bf00-a777-11e8-9755-3e9a26773e89.gif)|
+| | |
 |---|---|
-> Traditional AI algorithms like Evolutionary Algorithms are currently receiving special attention from the research community thanks to the simplicity and effectiveness of these algorithms. In this second part of the Workshop we will play with all the concepts of EA in a challenge-based hands on lab session.
-
-Co-organized by **David Jiménez** *from the Multimodal Infomation Area* and **Diego Reiriz** and **Javier Guzman** from the *Intelligent Systems Area* @ Gradiant
+> 
 
 > To attend, please send an email to: 
 > djcabello@gradiant.org
