@@ -25,7 +25,7 @@
 > **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI** **TO BE CONFIRMED**
 ### 29/11/2018 - Workshop Session I: Big Data and Machine Learning. A new era.** with *Juan Pablo Rey* and *Javier Guzman*
 
-| | |
+| ![learn_giraffe](https://user-images.githubusercontent.com/30496090/44568575-b2f2bf00-a777-11e8-9755-3e9a26773e89.gif) | |
 |---|---|
 > 
 
