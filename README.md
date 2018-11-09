@@ -22,11 +22,10 @@
 * 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
 
 ## Upcoming ***14th*** Session
-> **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI** **TO BE CONFIRMED**
+> **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI** **(TO BE CONFIRMED)**
 ### 29/11/2018 - Workshop Session I: Big Data and Machine Learning. A new era.** with *Juan Pablo Rey* and *Javier Guzman*
 
-| ![bigdataml](https://user-images.githubusercontent.com/30496090/48253652-1d76db00-e408-11e8-9648-d0ab66ab62b7.jpg)| |
-|---|---|
+| ![bigdataml](https://user-images.githubusercontent.com/30496090/48253652-1d76db00-e408-11e8-9648-d0ab66ab62b7.jpg)|---|
 > 
 
 > To attend, please send an email to: 
