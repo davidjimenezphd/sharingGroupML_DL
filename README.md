@@ -22,8 +22,9 @@
 * 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
 
 ## Upcoming ***14th*** Session
-> **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI** **(TO BE CONFIRMED)**
-### 29/11/2018 - Workshop Session I: Big Data and Machine Learning. A new era.** with *Juan Pablo Rey* and *Javier Guzman*
+> **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
+### 29/11/2018 - Workshop Session I: Big Data and Machine Learning. A new era.** with *Juan Pablo Rey*
+In this session we will present the main concepts of Big Data, without any roundabout way, using Spark as the main tool. This session contains both theory and hands-on-lab with Spark and python.
 
 | ![bigdataml](https://user-images.githubusercontent.com/30496090/48253652-1d76db00-e408-11e8-9648-d0ab66ab62b7.jpg)|---|
 > 
@@ -35,7 +36,8 @@
 ## 2018. Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* 12/2018: **Workshop II: Big Data and Deep Learning (theory and practice with Spark)** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
+* 01/2019: **Workshop II: Big Data and Machine Learning. A new era. (theory and practice with Spark)** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
+* 02/2019: **Workshop III: Big Data and Deep Learning (theory and practice with Spark)** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
 
 > We encourage everybody to make a proposal of presentation or their interests to prepare new workshops/presentations. 
 > Just send an email to: djcabello@gradiant.org
