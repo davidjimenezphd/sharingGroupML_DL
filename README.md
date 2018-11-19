@@ -36,8 +36,8 @@ In this session we will present the main concepts of Big Data, without any round
 ## 2018. Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* 01/2019: **Workshop II: Big Data and ML. A new era" - *Big data and Machine Learning with Spark (theory and practice)* ** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
-* 02/2019: **Workshop III: Big Data and ML. A new era" - *Big data and Deep Learning with Spark (theory and practice)* ** (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
+* 01/2019: **Workshop II: Big Data and ML. A new era"** - *Big data and Machine Learning with Spark (theory and practice)* (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
+* 02/2019: **Workshop III: Big Data and ML. A new era"** - *Big data and Deep Learning with Spark (theory and practice)* (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
 
 > We encourage everybody to make a proposal of presentation or their interests to prepare new workshops/presentations. 
 > Just send an email to: djcabello@gradiant.org
