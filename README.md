@@ -23,8 +23,8 @@
 * 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
 
 ## Upcoming ***14th*** Session
-> **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI** (**TO BE CONFIRMED**)
-### 17/01/2019 - Workshop Session II: "Big Data and Machine Learning. A new era! - *Big data and Machine Learning with Spark (theory and practice)"* with *Juan Pablo Rey Souto (Manolo)*
+> **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
+### 30/01/2019 - Workshop Session II: "Big Data and Machine Learning. A new era! - *Big data and Machine Learning with Spark (theory and practice)"* with *Juan Pablo Rey Souto (Manolo)*
 In this session we will continue getting deeper with Big Data, focused on traditional Machine Learning techniques, using the machine learning library in Spark as the main framework. This session contains both theory and hands-on-lab under Databricks and python.
 
 | ![bigdataml](https://user-images.githubusercontent.com/30496090/48253652-1d76db00-e408-11e8-9648-d0ab66ab62b7.jpg)|---|
