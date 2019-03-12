@@ -7,6 +7,7 @@
 > We have TWO ideas!! Wow*
 
 ## Previous Sessions
+* 2018_01_30: Workshop II: Big Data and Machine Learning. Big Data and Machine Learning with Spark mlib library (theory and practice) (*Juan Pablo Rey*)
 * 2018_11_29: Workshop I: Big Data and Machine Learning. Introduction to Big Data with Spark (theory and practice) (*Juan Pablo Rey*)
 * 2018_11_08: Workshop II: Evolutionary Algorithms (practical challenge) (*David Jiménez*, *Diego Reiriz* and *Javier Guzman*)
 * 2018_10_11: Workshop I: Evolutionary Algorithms (*Diego Reiriz*, *Javier Guzman* and *David Jiménez*)
@@ -22,10 +23,10 @@
 * 2017_09_07: Ensembles (*Juan José Moreira*) + Python Pipelines (*Pablo Dago*) + Lightning RF 
 * 2017_07_28: Deep Learning Survey (*David Jiménez*) + Python 3D (*David de la Iglesia*)
 
-## Upcoming ***14th*** Session
+## Upcoming ***15th*** Session
 > **Room i, 11:00h - 13:00h, Rúa Fonte das Abelleiras, s/n - Edificio CITEXVI**
-### 30/01/2019 - Workshop Session II: "Big Data and Machine Learning. A new era! - *Big data and Machine Learning with Spark (theory and practice)"* with *Juan Pablo Rey Souto (Manolo)*
-In this session we will continue getting deeper with Big Data, focused on traditional Machine Learning techniques, using the machine learning library in Spark as the main framework. This session contains both theory and hands-on-lab under Databricks and python.
+### 28/03/2019 - Workshop Session I: "Tensorflow: to infinity and beyond! - *Planting the seeds of Tensorflow basis (theory and practice)"* with *David de la Iglesia*
+In this session we will review the main concepts of Tensorflow framework, the most important tool to develop deep learning systems. This session contains both theory and hands-on-lab using python and jupiter notebooks.
 
 | ![bigdataml](https://user-images.githubusercontent.com/30496090/48253652-1d76db00-e408-11e8-9648-d0ab66ab62b7.jpg)|---|
 > 
@@ -37,7 +38,8 @@ In this session we will continue getting deeper with Big Data, focused on tradit
 ## 2019. Tentative Future Sessions
 We are planning the following sessions (dates could be modified):
 
-* 02/2019: **Workshop III: Big Data and ML. A new era"** - *Big data and Deep Learning with Spark (theory and practice)* (date to be confirmed) with *Juan Pablo Rey Souto* and *Javier Guzman*
+* 04/2019: **Workshop Session II: Tensorflow, to infinity and beyond."** - *Advanced Tensorflow: tips and tricks (theory and practice)* (date to be confirmed) with *David de la Iglesia*
+* 05/2019: **Workshop Session II: Tensorflow, to infinity and beyond."** - *Gradiant's Model Factory Framework (theory and practice)* (date to be confirmed) with *David de la Iglesia*
 
 > We encourage everybody to make a proposal of presentation or their interests to prepare new workshops/presentations. 
 > Just send an email to: djcabello@gradiant.org
