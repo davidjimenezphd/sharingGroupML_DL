@@ -28,7 +28,8 @@
 ### 28/03/2019 - Workshop Session I: "Tensorflow: to infinity and beyond! - *Planting the seeds of Tensorflow basis (theory and practice)"* with *David de la Iglesia*
 In this session we will review the main concepts of Tensorflow framework, the most important tool to develop deep learning systems. This session contains both theory and hands-on-lab using python and jupiter notebooks.
 
-| ![TFlogo](https://user-images.githubusercontent.com/30496090/54181538-243d5980-449f-11e9-8a2a-02a025c0cfae.jpg) | ![TFmeme](https://user-images.githubusercontent.com/30496090/54182248-3fa96400-44a1-11e9-9dd7-bba9e55d7791.jpg) |
+![TFlogo](https://user-images.githubusercontent.com/30496090/54181538-243d5980-449f-11e9-8a2a-02a025c0cfae.jpg) | ![TFmeme](https://user-images.githubusercontent.com/30496090/54182248-3fa96400-44a1-11e9-9dd7-bba9e55d7791.jpg)
+
 > 
 
 > To attend, please send an email to: 
